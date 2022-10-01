@@ -32,6 +32,5 @@ neovim Installed Successfully
 Now Start Your Coding
 
 # Subscribe
-```
-https://youtube.com/channel/UCupIogax268Qq6kk_XTGf0A
-```
+> https://youtube.com/channel/UCupIogax268Qq6kk_XTGf0A
+
